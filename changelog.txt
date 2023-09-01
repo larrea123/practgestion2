@@ -16,3 +16,4 @@ Version: 2.0.0
   hello word
 Version: 1.0.0
   - Initial Release
+  CAMBIOS DESDE LOCAL LORENA
